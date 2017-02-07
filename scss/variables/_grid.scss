@@ -1,0 +1,18 @@
+$grid-gutter: 15px;
+
+$grid-size--lg-min: 1200px;
+$grid-size--md-max: $grid-size--lg-min - 1;
+$grid-size--md-min: 992px;
+$grid-size--sm-max: $grid-size--md-min - 1;
+$grid-size--sm-min: 768px;
+$grid-size--xs-max: $grid-size--sm-min - 1;
+$grid-size--xs-min: 0;
+
+$container-width--lg: 1170px;
+$container-width--md: 970px;
+$container-width--sm: 750px;
+$container-width--xs: 100%;
+
+$column-width--lg: $container-width--lg / 12;
+$column-width--md: $container-width--md / 12;
+$column-width--sm: $container-width--sm / 12;
